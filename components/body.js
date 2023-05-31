@@ -1,12 +1,12 @@
 import Image from "next/image";
 import zoyabg from "../public/zoyabg.jpeg";
-import sarah from "../public/sarah.webp";
+import sarah from "../public/sarah.jpeg";
 import zoyap from "../public/zoyap.jpeg";
 import hp from "../public/hp.png";
 import helping_community from "../public/helping_community.webp";
 import likes from "../public/likes.png";
 import fake from "../public/fake.jpeg";
-import mira from "../public/mira.webp";
+import mira from "../public/mira.jpeg";
 
 import { BookmarkIcon, LinkIcon, UserGroupIcon, WindowIcon, InformationCircleIcon, ChevronDownIcon, } from "@heroicons/react/24/solid";
 import { PhotoIcon , PlayCircleIcon, BriefcaseIcon, PencilSquareIcon, GlobeAmericasIcon, EllipsisHorizontalIcon} from "@heroicons/react/24/solid";
