@@ -11,6 +11,14 @@ One major issue is the potential for the creation and spread of fake news and mi
 Addressing these challenges and concerns will require a multi-faceted approach that involves collaboration between social media platforms, AI developers, and regulators.
 Develop new algorithms and technologies to detect and prevent the spread of fake news and deep fake videos, implement stronger privacy and consent policies, and educate users about the risks and potential benefits of generative AI on social media.
 
+## Proposed solution
+The exponential increase in the generation of fake data, facilitated by the emergence of Generative Adversarial Neural Networks (GANs), has resulted in a rise in social scams..
+
+The project aims to develop algorithms that can be integrated into social media platforms to effectively identify and classify Deep Fake images and social posts, thus curbing the proliferation of Fake news.
+
+To this problem we target LinkedIn application with our neural network model
+
+
 ## Our application architechture
 <img width="1429" alt="Screenshot 2023-06-09 at 4 35 22 PM" src="https://github.com/gigDevelopment10/AI-Genesis/assets/84071291/dda09d73-21f5-4bb6-a8d7-bb517d3675e6">
 
@@ -22,6 +30,12 @@ Develop new algorithms and technologies to detect and prevent the spread of fake
 
 ## Proposed Architechture for real time scaling of this idea
 <img width="1246" alt="Screenshot 2023-05-31 at 1 56 20 AM" src="https://github.com/gigDevelopment10/AI-Genesis/assets/84071291/ca3117d0-0b47-4baf-ab1d-0a3768b39a45">
+
+
+
+## Contibutor 
+Zoya Jamadar
+
 
 
 
