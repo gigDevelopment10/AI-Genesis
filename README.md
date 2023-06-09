@@ -16,4 +16,7 @@ Develop new algorithms and technologies to detect and prevent the spread of fake
 
 <img width="1246" alt="Screenshot 2023-05-31 at 1 56 20 AM" src="https://github.com/gigDevelopment10/AI-Genesis/assets/84071291/ca3117d0-0b47-4baf-ab1d-0a3768b39a45">
 
+<img width="1429" alt="Screenshot 2023-06-09 at 4 35 22 PM" src="https://github.com/gigDevelopment10/AI-Genesis/assets/84071291/dda09d73-21f5-4bb6-a8d7-bb517d3675e6">
+
+
 
