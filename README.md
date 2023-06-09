@@ -1,5 +1,5 @@
 
-# Team DeepInAI
+# Team DeepInAI.
 project hosted @ https://aigenesis.netlify.app/
 
 ## Social media and Generative AI
