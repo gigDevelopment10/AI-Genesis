@@ -296,7 +296,7 @@ function Grid3() {
         <span key={index} className="text-xs mx-1 hover:underline hover:cursor-pointer hover:text-blue-600">{item}</span>
       ))}
     </div>
-    <span className="text-xs text-gray-400 text-center mx-4 py-10">This is a clone for AIGenesis Hackathon 2023</span>
+    <span className="text-xs text-gray-400 text-center mx-4 py-10">* This is a clone for demo purpose only </span>
     
     </div>
   );
